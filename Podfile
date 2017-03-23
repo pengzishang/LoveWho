@@ -1,5 +1,6 @@
 platform :ios, '9.0'
 target ‘LoveWho’ do
+    use_frameworks!
     pod 'AFNetworking'
     pod 'MBProgressHUD'
     pod 'CYLTableViewPlaceHolder'
@@ -10,4 +11,6 @@ target ‘LoveWho’ do
     pod 'MJRefresh'
     pod 'IQKeyboardManager'
     pod 'AvoidCrash'
+    pod 'SwiftyJSON'
+    pod 'FTPopOverMenu'
 end

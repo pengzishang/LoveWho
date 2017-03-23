@@ -1,0 +1,6 @@
+framework module Pods_LoveWho {
+  umbrella header "Pods-LoveWho-umbrella.h"
+
+  export *
+  module * { export * }
+}

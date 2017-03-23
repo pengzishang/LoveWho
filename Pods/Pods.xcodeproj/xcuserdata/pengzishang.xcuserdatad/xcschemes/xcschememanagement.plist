@@ -19,6 +19,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>FTPopOverMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>IQKeyboardManager.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -44,45 +49,60 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6B0089AEE898A1D12C18B4028E492B3D</key>
+		<key>1C3436CEA5C3D39764C5F54374794ECB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>70BC44266C6FFE30D2C57129458E070B</key>
+		<key>29DD99664D189A7CA206368F493B1E0B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>79366C642E2C833D8009F58BA8EC73C1</key>
+		<key>37915B4268B83C36E5D52CDBFA0D1BB2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7EB1525301D6AEE7AEFA1E0D7C9EC8A5</key>
+		<key>37C76CD246D637B8E4C586284A0D96B2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8328805E8B43C44FFFCDCD9C3DAC05DE</key>
+		<key>4907DFA8560740EDA2198A04605D7B7D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>928353533005A4198EBDA5B700D37B64</key>
+		<key>571E1429DDE8684D428BAB9D2F35B5D0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D058B89EB3B3DF45457A2DCD3971AFFE</key>
+		<key>690DE15EAA09F2113A14EF29EA1C56C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D0D0C9D20C43FA94D4C88FBFE2601B8E</key>
+		<key>A616EAC2596C18F9CB1FA56C19CC30C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DBA6001481CEA0EBA031CC5C94508FAA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2059B584C0CC63EAB2FE131B4BE9D7B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

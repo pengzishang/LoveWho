@@ -7,7 +7,14 @@
 //
 
 import UIKit
-
+import SDWebImage
 class JiaYuanModel: NSObject {
-
+    var name=String.init()
+    var sex = String.init()
+    var pic = String.init()
+    var height=String.init()
+    var uid=String.init()
+    var dis=String.init()
+    var picImage = UIImage.init()
+    var highlight = false
 }
